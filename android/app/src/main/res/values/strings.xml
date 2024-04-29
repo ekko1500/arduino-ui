@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">arduino-ui</string>
+    <string name="title_activity_main">arduino-ui</string>
+    <string name="package_name">com.ekko.myapp</string>
+    <string name="custom_url_scheme">com.ekko.myapp</string>
+</resources>
